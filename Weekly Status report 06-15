@@ -1,1 +1,15 @@
-Mission Statement
+1. Explore data sources to gain a preliminary understanding of them.
+Data sources include https://data.mass.gov/browse/education and https://data.boston.gov/dataset.
+Try to explore some key variables (factors) like school funding, teacher-student ratio, student demographics, and academic achievement.
+
+2. Study others’ applications with large dataset.
+Project like "Bluebikes in 2020" (https://storymaps.arcgis.com/stories/0f5fc6ed107d4c0491d24051eed77ff9#) gives me some insights about mining raw data and uncovering, identifying, and understanding the historical patterns hidden within dataset in time and space dimensions.
+
+3. Limit the geographical scope of my problem.
+Instead of studying public school districts across the entire state of Massachusetts, I am narrowing down my focus to a specific region: Middlesex County.
+https://en.wikipedia.org/wiki/Middlesex_County,_Massachusetts#Education
+
+4. Exploring python libraries for python visualization (Data visualization gives many insights that data alone cannot). 
+I am focusing on interactive visualization, geographical plots and large datasets tools, Libraries like Altair (The source of Altair is available on GitHub. It is easy to design effective and beautiful visualizations with a minimal amount of code.), Bokeh (Creates interactive web-ready plots that can be outputted in various formats such as – HTML documents and JSON objects.), and Plotly allow us to create interactive graphs that users can explore and interact with; Libraries like Folium and Geoplotlib offers a more straightforward approach by utilizing an open street map.
+https://mathdatasimplified.com/2023/06/05/top-6-python-libraries-for-visualization-which-one-to-use/ 
+https://github.com/khuyentran1401/Data-science/blob/master/visualization/top_visualization.ipynb

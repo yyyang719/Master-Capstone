@@ -16,7 +16,8 @@ with the output. Therefore, I started off with a simple linear regression using 
 
 5. I could get that ‘% Economically Disadvantaged’ has an obvious linear regression with the output ‘% 4-year college attending’ for 
 traditional public high schools. For school type: chart school, they perform better than traditional public high schools, especially 
-in schools with a more economically disadvantaged students.
+in schools with more economically disadvantaged students.
 
-6. The next study is controlling for Economic disadvantage variable to explore the case that within the districts being with the similar 
-economic resources which variables would cause different outcomes.
+6. The next study is by controlling for the variable of Economic disadvantage, this will allow us to explore the cases where districts 
+have the similar economic resources, but different outcomes occur. By isolating the economic disadvantage variable, we can further study 
+impacts of other variables on students' outcomes in these public school districts.

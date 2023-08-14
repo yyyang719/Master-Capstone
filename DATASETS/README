@@ -1,1 +1,2 @@
 All the generated datasets will be uploaded to this folder.
+data_organization.py is an example of processing raw data for 2018.
